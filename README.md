@@ -1,16 +1,8 @@
 # ducument_storage
 
-A new Flutter project.
+Ducument storage ui design example
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is inspriration from uplabs.com<br />
+credit ui uplabs: [UI App Document Storage](https://www.uplabs.com/posts/ui-app-document-storage)
